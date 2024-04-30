@@ -9,7 +9,7 @@ Topic 1: Cheerleading Expert vs LLM
 LET’S TALK CHEERLEADING: Cheerleading vs Cheer vs ???
 
 Cheer vs Cheerleading… What’s the difference?
-Cheer is short for All-star Cheerleading which is competitive cheerleading
+- Cheer is short for All-star Cheerleading which is competitive cheerleading
 - Team performs a 2 and a half minute routine in front of judges
 - Scored on technique, creativity, and difficulty regarding jumps, tumbling, stunts, and dance
 - No verbal cheers
