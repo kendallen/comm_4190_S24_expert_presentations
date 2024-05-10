@@ -1,6 +1,8 @@
-# comm_4190_S24_expert_presentations
+# Comm4190 Expert Presentations
 
-For this project, we were tasked with creation two presentations about the same topic, with one being AI-generated, and the other being created by a human expert. Below is the text from our two presentations. Can you tell which is which? Scroll to the bottom to find out if you were right! 
+# Kendall Allen and Emmy Keogh
+
+For this project, we were tasked with creation two presentations about the same topic, with one being AI-generated, and the other being created by a human expert. We chose cheerleading, because one of us has cheered for over ten years! Below is the text from our two presentations. Can you tell which is which? Scroll to the bottom to find out if you were right! 
 
 (Note: You can look at our full presentations within this repo, but beware of the titles, they contain spoilers!)
 
