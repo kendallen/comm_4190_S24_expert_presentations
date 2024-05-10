@@ -75,6 +75,8 @@ Thank you! Questions?
 
 # Can LLMs guess properly?
 
+When asking LLMs to guess which presentation was AI-generated, ChatGPT, Gemini, Co-Pilot, AND Llama3 all guessed the fake accurately! Can you?
+
 
 # Spoilers!
 
